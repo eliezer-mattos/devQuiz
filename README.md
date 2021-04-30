@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="DevQuiz" title="DevQuiz" src="./assets/blocks.png" width="220px" />
+  <img alt="DevQuiz" title="DevQuiz" src="./blob/main/assets/images/blogo.png" height="100px" />
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@ O DevQuiz é um aplicativo para você testar seus conhecimentos sobre tecnologia
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/6OCAh9pSUnwsLY8MkMTSZv/PlantManager). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/fUsGUsBcawNH3985UqEQbg/DevQuiz). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
