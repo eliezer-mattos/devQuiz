@@ -1,0 +1,108 @@
+[
+    {     
+      "title": "HTML",
+      "imagem": "blocks",
+      "questionAnswered": 0,
+      "level": "medio",
+      "questions": [
+        {
+          "title": "O que significa HTML?", 
+          "answers": [
+           {"title": "Home Tool Markup Language"},
+           {"title": "Hyper Text Markup Language", "isRight": true},
+           {"title": "Hyperlinks and Text Markup Language"},
+           {"title": "High Tab Manager Label"}
+          ]
+        },
+        {
+          "title": "Escolha o elemento HTML correto para o título maior:", 
+          "answers": [
+           {"title": "<heading>"},
+           {"title": "<h6>"},
+           {"title": "<h1>", "isRight": true},
+           {"title": "<head>"}
+          ]
+        },
+        {
+          "title": "Qual é o elemento HTML correto para inserir uma quebra de linha?", 
+          "answers": [
+           {"title": "<lb>"},
+           {"title": "<br>", "isRight": true},
+           {"title": "<break>"},
+           {"title": "<bl>"}
+          ]
+        },
+        {
+          "title": "Qual é o HTML correto para adicionar uma cor de fundo?", 
+          "answers": [
+           {"title": "<body bg='yellow'>"},
+           {"title": "<body style='background-color: yellow'>", "isRight": true},
+           {"title": "<background>yellow</background>"},
+           {"title": "<bg>yellow</bg>"}
+          ]
+        },
+        {
+          "title": "Como você pode fazer uma lista numerada?", 
+          "answers": [
+           {"title": "<list>"},
+           {"title": "<dl>"},
+           {"title": "<ol>", "isRight": true},
+           {"title": "<ul>"}
+          ]
+        },
+        {
+          "title": "Qual é o HTML correto para criar uma área de texto?", 
+          "answers": [
+           {"title": "<textarea>", "isRight": true},
+           {"title": "<input type='textbox'>"},
+           {"title": "<input textarea>"},
+           {"title": "<input type='textarea'>"}
+          ]
+        },
+        {
+          "title": "Como para exibir uma página da web dentro da página HTML.", 
+          "answers": [
+           {"title": "<iframe>", "isRight": true},
+           {"title": "<div>"},
+           {"title": "<section>"},
+           {"title": "<main>"}
+          ]
+        },
+        {
+          "title": "Qual o nome do criador do HTML?", 
+          "answers": [
+           {"title": "Steve Jobs"},
+           {"title": "Bill Gates"},
+           {"title": "Herman Hollerith"},
+           {"title": "Tim Berners-Lee", "isRight": true}
+          ]
+        },
+        {
+          "title": "Quem está criando os padrões da Web?", 
+          "answers": [
+           {"title": "Microsoft"},
+           {"title": "The World Wide Web Consortium", "isRight": true},
+           {"title": "Mozilla"},
+           {"title": "Google"}
+          ]
+        }
+      ]
+    },
+     {     
+      "title": "React JS",
+      "imagem": "blocks",
+      "questionAnswered": 0,
+      "level": "facil",
+      "questions": [
+        {
+          "title": "O React é?", 
+          "answers": [
+           {"title": "Uma biblioteca", "isRight": true},
+           {"title": "Um alien"},
+           {"title": "Um framework"},
+           {"title": "Uma linguagem de programação"}
+          ]
+        }
+      ]
+    }
+  ]
